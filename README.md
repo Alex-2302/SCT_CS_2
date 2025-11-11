@@ -54,4 +54,4 @@ Run the script
 Credits:
 
 Project done as part of SkillCraft Technology – Cybersecurity Training / Internship
-Task 02 – Image Encryption via Pixel Manipulation
+ – Image Encryption via Pixel Manipulation
