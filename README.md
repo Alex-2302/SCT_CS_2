@@ -47,8 +47,11 @@ How to Use
 Run the script
 
 1.Click Select Image → choose .png/.jpg/.jpeg
+
 2.Enter a numeric key (example: 42)
+
 3.Click Encrypt or Decrypt
+
 4.The result image appears in the right preview panel
 
 Credits:
